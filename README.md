@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @himanshushekharpande
 - 👀 I’m interested in learning how programming languages are developed
-- 🌱 I’m currently learning front end development languages and back end development languages.
-- 💞️ I’m looking to collaborate on learning prospects, even though I am very street smart.
-- 📫 How to reach me - DM me @ instagram/u/himanshushekharpande
+- 🌱 I’m currently learning Fields, Spaces and Software Architecture
+- 💞️ I’m looking to collaborate on learning prospects, though I am a sigma preferring my own company.
+- 📫 How to reach me - Whatsapp me@ wa.link/s5kuhj
 
 <!---
 himanshushekharpande/himanshushekharpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
